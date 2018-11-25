@@ -1,0 +1,7 @@
+C:\Programming3\Assignment4_COMP212_MoemiHagiyama\Assignment4_Async\bin\Debug\Assignment4_Async.exe.config
+C:\Programming3\Assignment4_COMP212_MoemiHagiyama\Assignment4_Async\bin\Debug\Assignment4_Async.exe
+C:\Programming3\Assignment4_COMP212_MoemiHagiyama\Assignment4_Async\bin\Debug\Assignment4_Async.pdb
+C:\Programming3\Assignment4_COMP212_MoemiHagiyama\Assignment4_Async\obj\Debug\Assignment4_Async.csprojResolveAssemblyReference.cache
+C:\Programming3\Assignment4_COMP212_MoemiHagiyama\Assignment4_Async\obj\Debug\Assignment4_Async.csproj.CoreCompileInputs.cache
+C:\Programming3\Assignment4_COMP212_MoemiHagiyama\Assignment4_Async\obj\Debug\Assignment4_Async.exe
+C:\Programming3\Assignment4_COMP212_MoemiHagiyama\Assignment4_Async\obj\Debug\Assignment4_Async.pdb
